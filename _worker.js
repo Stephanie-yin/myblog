@@ -3,7 +3,7 @@
 import { connect } from 'cloudflare:sockets';
 
 // 建议修改为自己的 UUID
-let userID = '533b60fb-f4ee-422a-96b0-c7284b8c5bde';
+let userID = 'f897f5ee-bd6d-418e-bbed-955ef585f911';
 
 // 生成配置文件的 CF 优选 IP
 const bestCFIP = "www.gov.se"
