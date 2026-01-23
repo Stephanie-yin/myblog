@@ -9,7 +9,7 @@ let userID = '55b9a352-5220-4aea-be7f-2b23be3303e9';
 const bestCFIP = "myblog-13y.pages.dev"
 
 // 用于 CF 网站的代理 IP
-const proxyIPs = ["myblog-13y.pages.dev"];
+const proxyIPs = ["162.159.247.1"];
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
 
 let dohURL = 'https://sky.rethinkdns.com/1:-Pf_____9_8A_AMAIgE8kMABVDDmKOHTAKg='; // https://cloudflare-dns.com/dns-query or https://dns.google/dns-query
